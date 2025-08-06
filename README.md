@@ -20,8 +20,8 @@ This project demonstrates how Excel can be used to automate and analyze healthca
 ## 📁 Files Included
 
 - **Healthcare_Claims_Automation.xlsx** – Main Excel workbook with mock data, logic, and dashboards  
-- **process_flow.png** *(optional)* – Flowchart of how claims are processed  
-- **project_overview.txt** *(optional)* – Summary of use case and logic
+- **process_flow.png**  – Flowchart of how claims are processed  
+- **project_overview.txt**  – Summary of use case and logic
 
 ---
 
